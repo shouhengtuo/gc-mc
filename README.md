@@ -1,4 +1,4 @@
-# Graph Convolutional Matrix Completion
+# Graph Convolutional Matrix Completion 矩阵补全
 
 Tensorflow based implemention of Graph Convolutional Matrix Completion for recommender systems, based on our paper:
 
